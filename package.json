@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "test:1": "mocha ./1/algo.test.js",
+    "test:2": "mocha ./2/algo.test.js",
+    "test:3": "mocha ./3/algo.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
