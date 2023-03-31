@@ -38,4 +38,14 @@
 
 ## A noter : le numéro en bout de ligne **doit être le numéro du dossier**.
 
+6. Dernière étape, au cas où...
+
+### Si vous souhaitez *push* vos modifications sur GitHub, envoyez-moi un message sur Discord, et effectuez les commandes suivantes :
+
+```
+  git add .
+  git commit -m "votre_message"
+  git push origin nom_prénom
+```
+
 # Good luck 🔥
