@@ -1,7 +1,12 @@
 // Créez une fonction qui permet de vérifier que le nombre donné en argument est pair
 
-function estPair(nb) {
-    return nb % 2 === 0;
+function pair(nombre) {
+  if (nombre % 2 === 0) return true;
+  else return false;
 }
 
-export default estPair;
+export default pair;
+
+function pair2(nombre) {
+  return pair % 2 == 0;
+}
