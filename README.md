@@ -1,4 +1,4 @@
-# Algorithmie & JavaScript
+# Algorithmie & JavaScript : Renforcement des connaissances
 
 ## Ce projet permet de réviser / renforcer les connaissances en algorithmie
 
