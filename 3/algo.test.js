@@ -23,4 +23,3 @@ describe('multiplicationPar10', () => {
   });
 });
 
-console.log('\x1b[32m%s\x1b[0m', '✅ Tous les tests ont été validés avec succès ! 🎉');

@@ -6,7 +6,9 @@
     "test:3": "mocha ./3/algo.test.js",
     "test:4": "mocha ./4/algo.test.js",
     "test:5": "mocha ./5/algo.test.js",
-    "test:6": "mocha ./6/algo.test.js"
+    "test:6": "mocha ./6/algo.test.js",
+    "test:7": "mocha ./7/algo.test.js",
+    "test:8": "mocha ./8/algo.test.js"
   },
   "devDependencies": {
     "mocha": "^10.2.0"

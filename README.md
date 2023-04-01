@@ -36,6 +36,12 @@
   npm run test:1
 ```
 
+### Pour que le test soit validé, toutes les lignes doivent être en vert, et le message suivant doit apparaître au-dessus des tests (dans le terminal) :
+
+```
+  ✅ Tous les tests ont été validés avec succès ! 🎉
+```
+
 ## A noter : le numéro en bout de ligne **doit être le numéro du dossier**.
 
 6. Dernière étape, au cas où...
