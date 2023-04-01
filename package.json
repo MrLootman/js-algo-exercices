@@ -3,7 +3,10 @@
   "scripts": {
     "test:1": "mocha ./1/algo.test.js",
     "test:2": "mocha ./2/algo.test.js",
-    "test:3": "mocha ./3/algo.test.js"
+    "test:3": "mocha ./3/algo.test.js",
+    "test:4": "mocha ./4/algo.test.js",
+    "test:5": "mocha ./5/algo.test.js",
+    "test:6": "mocha ./6/algo.test.js"
   },
   "devDependencies": {
     "mocha": "^10.2.0"
