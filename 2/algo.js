@@ -8,5 +8,5 @@ function pair(nombre) {
 export default pair;
 
 function pair2(nombre) {
-  return pair % 2 == 0;
+  return pair2 % 2 == 0;
 }

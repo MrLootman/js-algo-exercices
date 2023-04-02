@@ -4,4 +4,4 @@ function multiplication(a) {
   return a * 10;
 }
 
-export default multiplierPar10;
+export default multiplication;
